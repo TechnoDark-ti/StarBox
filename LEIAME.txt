@@ -1,0 +1,9 @@
+Coisas que devo aprender para criar um jogo{
+
+- Linguagem de Programação C++;
+- Programação de Games;
+- Modelagem 3D;
+- Conhecimento com a Unreal Engine;
+- Trilha Sonora;
+- Desenvolvimento Design de Games
+}
